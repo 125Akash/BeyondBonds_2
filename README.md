@@ -70,7 +70,7 @@ To start the application, you can use the following npm scripts:
 
 If you'd like to contribute to BeyondBonds, Contribute to it
 
-<img src="https://github.com/125Akash/BeyondBonds_2/blob/main/Screenshot_2023-11-05_11_06_59.png" />
+<img src="https://github.com/125Akash/BeyondBonds_2/blob/main/Screenshot_2023-11-17_19_41_51.png" width="500px" height="500px" />
 
 
 
