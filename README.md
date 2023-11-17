@@ -27,8 +27,8 @@ To get started with BeyondBonds, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/125Akash/BeyondBonds.git
-   cd beyondbonds
+   https://github.com/125Akash/BeyondBonds_2.git
+  
    ```
 
 2. Install npm dependencies of `concurrently` which will furter use for client and server:
