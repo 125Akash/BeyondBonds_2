@@ -2,15 +2,15 @@
 # BeyondBonds - Social Media App 
 video Link --https://drive.google.com/file/d/17fpaAuTdSI0Bsbw5Zz4qf6s9hjagVVBi/view?usp=sharing
 
-# Welcome to BeyondBonds, a cutting-edge social media web application designed to connect people and foster meaningful relationships. BeyondBonds is a feature-rich platform that combines the best aspects of social interaction, content sharing, and community building. With a sleek and user-friendly interface, BeyondBonds aims to provide an engaging and immersive experience for users seeking to go beyond the ordinary in their online social interactions.
+ Welcome to BeyondBonds, a cutting-edge social media web application designed to connect people and foster meaningful relationships. BeyondBonds is a feature-rich platform that combines the best aspects of social interaction, content sharing, and community building. With a sleek and user-friendly interface, BeyondBonds aims to provide an engaging and immersive experience for users seeking to go beyond the ordinary in their online social interactions.
 
-# User Profiles: Create your unique profile, showcase your personality, and let others get to know you better.
+ User Profiles: Create your unique profile, showcase your personality, and let others get to know you better.
 
-# Post Sharing: Share your moments with the world through photos and captions, just like Instagram.
+ Post Sharing: Share your moments with the world through photos and captions, just like Instagram.
 
-# Likes and Comments: Engage with the content you love by liking posts and leaving comments to express your thoughts.
+ Likes and Comments: Engage with the content you love by liking posts and leaving comments to express your thoughts.
 
-# Friendship Building: Connect with others by sending and receiving friend requests. Build your network and strengthen your bonds.
+ Friendship Building: Connect with others by sending and receiving friend requests. Build your network and strengthen your bonds.
 
 ## Project Structure
 
